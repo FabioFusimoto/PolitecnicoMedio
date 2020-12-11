@@ -1,5 +1,8 @@
 {
   "resources": [
+    {"id":{"name":"MACROS","path":"scripts/MACROS/MACROS.yy",},"order":1,},
+    {"id":{"name":"sPlayableCharacterRun","path":"sprites/sPlayableCharacterRun/sPlayableCharacterRun.yy",},"order":1,},
+    {"id":{"name":"PlayerAnimateSprite","path":"scripts/PlayerAnimateSprite/PlayerAnimateSprite.yy",},"order":0,},
     {"id":{"name":"sPlayableCharacter","path":"sprites/sPlayableCharacter/sPlayableCharacter.yy",},"order":0,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
