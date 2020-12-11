@@ -19,8 +19,8 @@ inputMagnitude = (keyRight - keyLeft != 0) || (keyDown - keyUp != 0);
 hSpeed = lengthdir_x(inputMagnitude * speedWalk, inputDirection);
 vSpeed = lengthdir_y(inputMagnitude * speedWalk, inputDirection);
 
-x += hSpeed;
-y += vSpeed;
+// Check collision and set set speed if not colliding
+PlayerCollision();
 
 // Update Sprite index
 var _oldSprite = sprite_index;
