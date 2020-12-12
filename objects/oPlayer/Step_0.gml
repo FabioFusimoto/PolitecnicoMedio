@@ -16,4 +16,6 @@ if (keyRight - keyLeft != 0) {
 
 inputMagnitude = (keyRight - keyLeft != 0) || (keyDown - keyUp != 0);
 
-script_execute(state);
+if (!global.gamePaused) {
+	script_execute(state);
+}
