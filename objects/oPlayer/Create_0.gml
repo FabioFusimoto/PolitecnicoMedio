@@ -1,6 +1,8 @@
 state = PlayerStateWalk;
 
-collisionMap = layer_tilemap_get_id(layer_get_id("Collision"));
+if(room == ROOM_MAIN){
+	collisionMap = layer_tilemap_get_id(layer_get_id("Collision"));
+}
 
 image_speed = 0;
 hSpeed = 0;
