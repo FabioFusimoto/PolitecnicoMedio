@@ -1,5 +1,4 @@
 {
-  "name": "tCol",
   "spriteId": {
     "name": "sCol",
     "path": "sprites/sCol/sCol.yy",
@@ -10,7 +9,7 @@
   "tileyoff": 0,
   "tilehsep": 0,
   "tilevsep": 0,
-  "spriteNoExport": true,
+  "spriteNoExport": false,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -41,6 +40,7 @@
     "path": "folders/Tile Sets.yy",
   },
   "resourceVersion": "1.0",
+  "name": "tCol",
   "tags": [],
   "resourceType": "GMTileSet",
 }
