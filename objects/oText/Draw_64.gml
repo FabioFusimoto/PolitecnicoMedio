@@ -1,4 +1,3 @@
-/// @description Draw text box
 NineSliceBoxStretched(sTextBoxBg, x1, y1, x2, y2, background);
 
 // Call these every time you need to render any kind of text

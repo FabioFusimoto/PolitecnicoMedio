@@ -1,4 +1,5 @@
 state = PlayerStateWalk;
+lastState = state;
 
 if(room == ROOM_MAIN){
 	collisionMap = layer_tilemap_get_id(layer_get_id("Collision"));
