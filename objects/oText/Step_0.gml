@@ -1,5 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
 lerpProgress += (1 - lerpProgress) / 50;
 textProgress += global.textSpeed;
 
@@ -10,6 +8,15 @@ if (keyboard_check_pressed(vk_space)) {
 	var _messageLength = string_length(message);
 	if (textProgress >= _messageLength) {
 		instance_destroy();
+		if (instance_exists(oTextQueued)){
+			with (oTextQueued) {
+				ticket--;
+			}
+		} else {
+			with (oPlayer) {
+				state = lastState;
+			}
+		}
 	} else {
 		if (textProgress > 2) {
 			textProgress = _messageLength;
