@@ -14,7 +14,7 @@
   ],
   "layers": [
     {"instances":[
-        {"properties":[],"isDnd":false,"objectId":{"name":"oPlayer_1","path":"objects/oPlayer_1/oPlayer_1.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":288.0,"y":352.0,"resourceVersion":"1.0","name":"inst_51EB314E","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":288.0,"y":352.0,"resourceVersion":"1.0","name":"inst_6F3654A1","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"tilesetId":{"name":"TileSet3_1","path":"tilesets/TileSet3_1/TileSet3_1.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":80,"SerialiseHeight":45,"TileSerialiseData":[
 4093,4094,5035,5036,5037,5038,5039,5040,5041,5042,5043,5044,5045,5046,5047,5048,5035,5036,5037,5038,5039,5040,5041,5042,5043,5044,5045,5046,2541,2542,2542,2543,2542,2543,2542,2543,2542,2543,2542,2543,2542,2543,2542,2543,2542,2543,2542,2543,2542,2543,2543,2544,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,
@@ -94,7 +94,7 @@
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_51EB314E","path":"rooms/rMesasDeMadeira/rMesasDeMadeira.yy",},
+    {"name":"inst_6F3654A1","path":"rooms/rMesasDeMadeira/rMesasDeMadeira.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
