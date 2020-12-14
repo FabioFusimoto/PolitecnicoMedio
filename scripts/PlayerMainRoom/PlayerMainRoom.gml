@@ -21,6 +21,7 @@ function PlayerMainRoom(){
 	
 
 	if (!global.gamePaused) {
+		depth = -bbox_bottom;
 		script_execute(state);
 	}
 	
