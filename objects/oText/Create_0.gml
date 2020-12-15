@@ -9,3 +9,5 @@ x2Target = RESOLUTION_W;
 
 lerpProgress = 0;
 textProgress = 0; //Number of characters in message
+
+responseSelected = 0;
