@@ -2,7 +2,6 @@
   "resources": [
     {"id":{"name":"rMesasDeMadeira","path":"rooms/rMesasDeMadeira/rMesasDeMadeira.yy",},"order":2,},
     {"id":{"name":"sFloorTiles","path":"tilesets/sFloorTiles/sFloorTiles.yy",},"order":1,},
-    {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},"order":14,},
     {"id":{"name":"oPlayer_1","path":"objects/oPlayer_1/oPlayer_1.yy",},"order":4,},
     {"id":{"name":"sCol","path":"sprites/sCol/sCol.yy",},"order":2,},
     {"id":{"name":"MACROS","path":"scripts/MACROS/MACROS.yy",},"order":1,},
