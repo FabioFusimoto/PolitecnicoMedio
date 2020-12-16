@@ -1,6 +1,6 @@
-if(room == rMain) {
-	script_execute(PlayerMainRoom)	
+if(room == rMinigame) {
+	script_execute(PlayerMinigameRoom)	
 }
 else {
-	script_execute(PlayerMinigameRoom)	
+	script_execute(PlayerMainRoom)	
 }
