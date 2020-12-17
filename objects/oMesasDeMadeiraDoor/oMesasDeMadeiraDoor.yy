@@ -1,12 +1,12 @@
 {
   "spriteId": {
-    "name": "sGenericDoor",
-    "path": "sprites/sGenericDoor/sGenericDoor.yy",
+    "name": "sMinigameDoor",
+    "path": "sprites/sMinigameDoor/sMinigameDoor.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
-  "persistent": true,
+  "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
@@ -28,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oMinigameDoor",
+  "name": "oMesasDeMadeiraDoor",
   "tags": [],
   "resourceType": "GMObject",
 }

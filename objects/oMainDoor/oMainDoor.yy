@@ -1,9 +1,9 @@
 {
   "spriteId": {
-    "name": "sMinigameDoor",
-    "path": "sprites/sMinigameDoor/sMinigameDoor.yy",
+    "name": "sGenericDoor",
+    "path": "sprites/sGenericDoor/sGenericDoor.yy",
   },
-  "solid": true,
+  "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
@@ -28,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oBienioTerreoDoor",
+  "name": "oMainDoor",
   "tags": [],
   "resourceType": "GMObject",
 }

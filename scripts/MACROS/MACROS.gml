@@ -6,6 +6,7 @@ function MACROS(){
 	#macro ROOM_MAIN rMain
 	#macro ROOM_MINIGAME rMinigame
 	#macro ROOM_BIENIO_TERREO rBienioTerreo
+	#macro ROOM_MESAS_DE_MADEIRA rMesasDeMadeira
 	#macro ROOM_MINERVA Minerva
 	
 	#macro RESOLUTION_W 320
